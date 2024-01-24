@@ -1,3 +1,7 @@
+# Inactive
+
+This project is inactive. You might want to look at https://codeberg.org/falken/dmarc-report which implements the same ideas.
+
 # dmarc.lambda
 AWS Lambda Application that receives, parses and processes DMARC summary reports.
 
